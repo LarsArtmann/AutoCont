@@ -14,9 +14,9 @@
   "main": "run.js",
   "dependencies": {
     "firebase-functions": "^3.24.1",
-	"axios": "^0.24.0",
+	"axios": "^0.30.0",
     "firebase-admin": "^11.4.1",
-    "puppeteer": "^13.0.0"
+    "puppeteer": "^24.15.0"
   },
   "devDependencies": {
     "firebase-functions-test": "^0.2.0"
